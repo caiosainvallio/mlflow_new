@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/111200603760646954/fc0e85d05abb44909fb0136e3fba152e/artifacts
+end_time: 1745285897896
+entry_point_name: ''
+experiment_id: '111200603760646954'
+lifecycle_stage: active
+run_id: fc0e85d05abb44909fb0136e3fba152e
+run_name: adorable-tern-237
+run_uuid: fc0e85d05abb44909fb0136e3fba152e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745285897889
+status: 3
+tags: []
+user_id: caiosainvallio

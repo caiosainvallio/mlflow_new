@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/c5ba875a3a3d436682189eb5633da944/artifacts
+end_time: 1745276758493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5ba875a3a3d436682189eb5633da944
+run_name: powerful-asp-877
+run_uuid: c5ba875a3a3d436682189eb5633da944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745276667850
+status: 3
+tags: []
+user_id: unknown

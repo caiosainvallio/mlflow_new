@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/882c1d36357f48dd85804fb636908c62/artifacts
+deleted_time: 1745276613363
+end_time: 1745276613363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 882c1d36357f48dd85804fb636908c62
+run_name: mysterious-lynx-394
+run_uuid: 882c1d36357f48dd85804fb636908c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745276613357
+status: 3
+tags: []
+user_id: caiosainvallio

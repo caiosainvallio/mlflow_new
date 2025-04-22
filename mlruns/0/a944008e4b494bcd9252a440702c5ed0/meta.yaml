@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/a944008e4b494bcd9252a440702c5ed0/artifacts
+end_time: 1745275245828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a944008e4b494bcd9252a440702c5ed0
+run_name: skillful-gnat-630
+run_uuid: a944008e4b494bcd9252a440702c5ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745275245823
+status: 3
+tags: []
+user_id: caiosainvallio

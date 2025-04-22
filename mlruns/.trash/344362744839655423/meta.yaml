@@ -1,0 +1,16 @@
+artifact_location: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/344362744839655423
+creation_time: 1745285604891
+experiment_id: '344362744839655423'
+last_update_time: 1745285605019
+lifecycle_stage: deleted
+name: experiment_2
+tags:
+  algorithm_type: ensemble
+  data_quality: medium
+  data_size: medium
+  data_source: cloud
+  data_type: semi-structured
+  inference_type: online
+  mlflow.note.content: This is a note
+  project_type: experiment
+  random_experiment: 'yes'

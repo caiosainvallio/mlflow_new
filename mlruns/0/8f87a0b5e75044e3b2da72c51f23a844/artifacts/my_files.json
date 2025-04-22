@@ -1,0 +1,4 @@
+{
+  "predictions.csv": "artifacts_example/predictions.csv",
+  "model.pkl": "artifacts_example/model.pkl"
+}

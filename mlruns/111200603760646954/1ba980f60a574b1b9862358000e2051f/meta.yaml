@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/111200603760646954/1ba980f60a574b1b9862358000e2051f/artifacts
+end_time: 1745285897888
+entry_point_name: ''
+experiment_id: '111200603760646954'
+lifecycle_stage: active
+run_id: 1ba980f60a574b1b9862358000e2051f
+run_name: sedate-vole-857
+run_uuid: 1ba980f60a574b1b9862358000e2051f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745285897880
+status: 3
+tags: []
+user_id: caiosainvallio

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/f7b5077027bd449ba074b4e9489f96b5/artifacts
+end_time: 1745274147140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7b5077027bd449ba074b4e9489f96b5
+run_name: bedecked-mink-176
+run_uuid: f7b5077027bd449ba074b4e9489f96b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745274014765
+status: 3
+tags: []
+user_id: caiosainvallio

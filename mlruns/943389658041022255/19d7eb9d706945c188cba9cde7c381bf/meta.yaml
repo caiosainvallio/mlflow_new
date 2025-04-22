@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/943389658041022255/19d7eb9d706945c188cba9cde7c381bf/artifacts
+end_time: 1745285897910
+entry_point_name: ''
+experiment_id: '943389658041022255'
+lifecycle_stage: active
+run_id: 19d7eb9d706945c188cba9cde7c381bf
+run_name: orderly-grouse-463
+run_uuid: 19d7eb9d706945c188cba9cde7c381bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745285897905
+status: 3
+tags: []
+user_id: caiosainvallio

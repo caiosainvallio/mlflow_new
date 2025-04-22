@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/111200603760646954/15ef683477e643a287c5cf70b1274593/artifacts
+end_time: 1745285897904
+entry_point_name: ''
+experiment_id: '111200603760646954'
+lifecycle_stage: active
+run_id: 15ef683477e643a287c5cf70b1274593
+run_name: bright-robin-599
+run_uuid: 15ef683477e643a287c5cf70b1274593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745285897897
+status: 3
+tags: []
+user_id: caiosainvallio

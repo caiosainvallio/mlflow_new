@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/6969e01a253745bb97afe0fbf3c12e58/artifacts
+end_time: 1745274158650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6969e01a253745bb97afe0fbf3c12e58
+run_name: merciful-vole-896
+run_uuid: 6969e01a253745bb97afe0fbf3c12e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745274157967
+status: 3
+tags: []
+user_id: caiosainvallio

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/90b0d3f7ee6f4ce4b47f1535378972eb/artifacts
+end_time: 1745281850006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90b0d3f7ee6f4ce4b47f1535378972eb
+run_name: log-decision-tree-classifier
+run_uuid: 90b0d3f7ee6f4ce4b47f1535378972eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745281848915
+status: 3
+tags: []
+user_id: caiosainvallio

@@ -1,0 +1,24 @@
+artifact_path: model
+flavors:
+  python_function:
+    artifacts:
+      predictions:
+        path: artifacts/predictions.csv
+        uri: file:///Users/caiosainvallio/projects/mlflow_new/artifacts_example/predictions.csv
+    cloudpickle_version: 3.1.1
+    code: null
+    config:
+      model_name: Classifier
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.13.0
+    streamable: false
+mlflow_version: 2.21.3
+model_size_bytes: 3045
+model_uuid: 42d5c882a97e475daca170e1d38e4dcc
+prompts: null
+run_id: e8f4d69f995a4e27b450dd4ef56977cf
+utc_time_created: '2025-04-22 00:57:15.668058'

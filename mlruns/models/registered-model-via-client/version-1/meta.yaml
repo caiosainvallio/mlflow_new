@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745283897067
+current_stage: None
+description: Model Version created using MLflow Client
+last_updated_timestamp: 1745283897067
+name: registered-model-via-client
+run_id: bee0f264eaa444dc9e58c476b917daad
+run_link: null
+source: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/bee0f264eaa444dc9e58c476b917daad/artifacts
+status: READY
+status_message: null
+storage_location: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/bee0f264eaa444dc9e58c476b917daad/artifacts
+user_id: null
+version: 1

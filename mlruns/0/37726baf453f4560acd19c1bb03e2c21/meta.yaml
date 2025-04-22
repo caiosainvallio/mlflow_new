@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/37726baf453f4560acd19c1bb03e2c21/artifacts
+end_time: 1745277262656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37726baf453f4560acd19c1bb03e2c21
+run_name: logging_parameters
+run_uuid: 37726baf453f4560acd19c1bb03e2c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745277262651
+status: 3
+tags: []
+user_id: caiosainvallio

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/d9d2fde3874a485394d27c86883c1931/artifacts
+deleted_time: 1745276547557
+end_time: 1745276547556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d9d2fde3874a485394d27c86883c1931
+run_name: thoughtful-skunk-574
+run_uuid: d9d2fde3874a485394d27c86883c1931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745276547552
+status: 3
+tags: []
+user_id: caiosainvallio

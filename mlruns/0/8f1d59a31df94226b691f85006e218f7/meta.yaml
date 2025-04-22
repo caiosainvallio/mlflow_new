@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/8f1d59a31df94226b691f85006e218f7/artifacts
+end_time: 1745269181596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f1d59a31df94226b691f85006e218f7
+run_name: legendary-panda-481
+run_uuid: 8f1d59a31df94226b691f85006e218f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745269181593
+status: 3
+tags: []
+user_id: caiosainvallio

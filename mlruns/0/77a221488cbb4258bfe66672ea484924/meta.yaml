@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/77a221488cbb4258bfe66672ea484924/artifacts
+end_time: 1745274261433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77a221488cbb4258bfe66672ea484924
+run_name: sassy-panda-133
+run_uuid: 77a221488cbb4258bfe66672ea484924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745274261426
+status: 3
+tags: []
+user_id: caiosainvallio

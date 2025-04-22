@@ -1,0 +1,22 @@
+artifact_path: model
+flavors:
+  python_function:
+    artifacts:
+      my_file:
+        path: artifacts/run_batch.py
+        uri: src/utils/run_batch.py
+    cloudpickle_version: 3.1.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.13.0
+    streamable: false
+mlflow_version: 2.21.3
+model_size_bytes: 3241
+model_uuid: 47249f589a444249b14852c90f58061c
+prompts: null
+run_id: c49f34970ca740d0ab4f7352b3cb41ff
+utc_time_created: '2025-04-22 00:49:20.005765'

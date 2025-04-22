@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/52537b7ed7834491bb80bd83a59f5fac/artifacts
+end_time: 1745282633610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52537b7ed7834491bb80bd83a59f5fac
+run_name: class_model_context
+run_uuid: 52537b7ed7834491bb80bd83a59f5fac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745282632500
+status: 3
+tags: []
+user_id: caiosainvallio

@@ -1,0 +1,16 @@
+artifact_location: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/255244586906175709
+creation_time: 1745285604879
+experiment_id: '255244586906175709'
+last_update_time: 1745285605017
+lifecycle_stage: deleted
+name: experiment_0
+tags:
+  algorithm_type: linear
+  data_quality: medium
+  data_size: large
+  data_source: streaming
+  data_type: semi-structured
+  inference_type: batch
+  mlflow.note.content: This is a note
+  project_type: production
+  random_experiment: 'yes'

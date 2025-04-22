@@ -1,0 +1,11 @@
+artifact_location: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/237666689542649959
+creation_time: 1745268689068
+experiment_id: '237666689542649959'
+last_update_time: 1745271710450
+lifecycle_stage: active
+name: renamed-experiment
+tags:
+  mlflow.note.content: This is the description for the experiment
+  new-tag: new-tag-value-updated-with client
+  topic: experiment-management
+  version: v2

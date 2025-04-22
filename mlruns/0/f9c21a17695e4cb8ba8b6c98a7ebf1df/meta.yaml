@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/f9c21a17695e4cb8ba8b6c98a7ebf1df/artifacts
+end_time: 1745275845032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9c21a17695e4cb8ba8b6c98a7ebf1df
+run_name: wise-grub-260
+run_uuid: f9c21a17695e4cb8ba8b6c98a7ebf1df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745275549766
+status: 3
+tags: []
+user_id: caiosainvallio

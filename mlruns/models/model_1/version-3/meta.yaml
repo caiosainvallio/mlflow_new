@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745286226799
+current_stage: None
+description: null
+last_updated_timestamp: 1745286226799
+name: model_1
+run_id: 2394fa28ff5442c9beb41991972f5816
+run_link: null
+source: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/2394fa28ff5442c9beb41991972f5816/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/0/2394fa28ff5442c9beb41991972f5816/artifacts/model
+user_id: null
+version: 3

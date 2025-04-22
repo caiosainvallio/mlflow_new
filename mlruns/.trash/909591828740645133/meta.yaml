@@ -1,0 +1,16 @@
+artifact_location: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/909591828740645133
+creation_time: 1745285604897
+experiment_id: '909591828740645133'
+last_update_time: 1745285605020
+lifecycle_stage: deleted
+name: experiment_3
+tags:
+  algorithm_type: neural network
+  data_quality: medium
+  data_size: large
+  data_source: database
+  data_type: structured
+  inference_type: online
+  mlflow.note.content: This is a note
+  project_type: research
+  random_experiment: 'yes'

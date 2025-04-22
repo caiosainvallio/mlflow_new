@@ -1,0 +1,16 @@
+artifact_location: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/127255371923198529
+creation_time: 1745285604903
+experiment_id: '127255371923198529'
+last_update_time: 1745285605021
+lifecycle_stage: deleted
+name: experiment_4
+tags:
+  algorithm_type: ensemble
+  data_quality: low
+  data_size: small
+  data_source: api
+  data_type: unstructured
+  inference_type: online
+  mlflow.note.content: This is a note
+  project_type: development
+  random_experiment: 'yes'

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/826880563816954653/3e40f8e8b84d4c3481292177cc45ab31/artifacts
+end_time: 1746568473475
+entry_point_name: ''
+experiment_id: '826880563816954653'
+lifecycle_stage: active
+run_id: 3e40f8e8b84d4c3481292177cc45ab31
+run_name: legendary-grouse-154
+run_uuid: 3e40f8e8b84d4c3481292177cc45ab31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746568473466
+status: 3
+tags: []
+user_id: caiosainvallio

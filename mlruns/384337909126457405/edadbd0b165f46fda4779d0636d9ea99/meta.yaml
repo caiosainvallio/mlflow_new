@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/384337909126457405/edadbd0b165f46fda4779d0636d9ea99/artifacts
+end_time: 1746568817274
+entry_point_name: ''
+experiment_id: '384337909126457405'
+lifecycle_stage: active
+run_id: edadbd0b165f46fda4779d0636d9ea99
+run_name: caring-conch-59
+run_uuid: edadbd0b165f46fda4779d0636d9ea99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746568817265
+status: 3
+tags: []
+user_id: caiosainvallio

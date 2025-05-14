@@ -1,0 +1,9 @@
+
+# mais facil pra salvar as coisas
+uv run mlflow ui --backend-store-uri sqlite:///mlflow.db
+
+
+
+
+
+

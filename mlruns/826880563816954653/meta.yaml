@@ -1,0 +1,6 @@
+artifact_location: file:///Users/caiosainvallio/projects/mlflow_new/mlruns/826880563816954653
+creation_time: 1746568128351
+experiment_id: '826880563816954653'
+last_update_time: 1746568128351
+lifecycle_stage: active
+name: wine-quality
